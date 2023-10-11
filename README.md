@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Vivek Shah
+- 👀 I’m interested in Data and DataScience
+- 🌱 I’m currently learning machine learning techniques and enrolled in Data Science and Business Analytics PGP course through UT Austin
+- ☀️ I use Jupyter notebook, SQL, Data Visualization, Power BI & Tableau for my projects and work
+- 👀 I’m interested in learning new skillsets, tools and technologies that would empower me
+- 📫 How to reach me on linkedin --- [https://www.linkedin.com/in/vivek-wheredatabegins/](https://www.linkedin.com/in/vivek-wheredatabegins/)
+- 📫 Portfolio Link --- [https://eportfolio.mygreatlearning.com/vivek-r-shah](https://eportfolio.mygreatlearning.com/vivek-r-shah)
+- 📫 Github Link --- [https://github.com/shahvivek04](https://github.com/shahvivek04)
